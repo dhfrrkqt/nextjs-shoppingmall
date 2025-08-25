@@ -1,3 +1,8 @@
+# nextjs-shoppingmall
+공학 / 코디 관련 만들기 - 강의 따라 만들기
+
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
